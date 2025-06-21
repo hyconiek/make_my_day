@@ -1,4 +1,4 @@
-
+![Widok dashboardu](emergent.png)
 # Make My Day - Giełda Zleceń Automatyzacji
 
 Platforma typu marketplace, gdzie użytkownicy mogą zlecać i realizować zadania automatyzacji. Wynagrodzenie jest uwalniane na podstawie ocen społeczności, a gotowe rozwiązania stają się publicznie dostępne dla wszystkich.
