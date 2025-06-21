@@ -195,8 +195,6 @@ metadata:
 
 test_plan:
   current_focus:
-    - "Order Management API"
-    - "Order Rating System"
     - "Order Marketplace Dashboard"
   stuck_tasks: []
   test_all: true
